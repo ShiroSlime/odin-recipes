@@ -1,0 +1,15 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    background-color: #36393e;
+}
+
+#title {
+    text-align: center;
+    color: #e25b66;
+    background-color: #5bcde2;
+}
+
+.list {
+    color: white;
+}
