@@ -1,15 +1,37 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 25px;
-    background-color: #36393e;
+    font-size: 20px;
+    background-color: #000000;
+    color: #e5e5e5;
 }
 
 #title {
-    text-align: center;
-    color: #e25b66;
-    background-color: #5bcde2;
+    color: #dddbcb;
+    background-color: #008080;
+    font-size: 30px;
 }
 
-.list {
-    color: white;
+#description {
+    color: #0047ab;
+    font-size: 25px;
+}
+
+.heading {
+    color: #b1ddf1;
+    font-size: 23px;
+}
+
+#title, 
+.center {
+    text-align: center;
+}
+
+.img {
+    height: 250px;
+    width: auto;
+}
+
+.heading2 {
+    color: #ffecd1;
+    font-size: 21px;
 }
